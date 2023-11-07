@@ -1,0 +1,5 @@
+
+#ignorar  solo el contenido de salida que contenga .txt e crear un archivo para indicaciones
+salida/*.txt
+
+node_modules/
